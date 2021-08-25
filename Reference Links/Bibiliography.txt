@@ -1,0 +1,184 @@
+[1] SolarWinds Supply Chain to Compromise Multiple Global Victims With SUNBURST Backdoor, https://www.fireeye.com/blog/threat-research/2020/12/evasive-attacker-leverages-solarwinds-supply-chain-compromises-with-sunburst-backdoor.html 
+
+[2] Analyzing Solorigate, the compromised DLL file that started a sophisticated cyberattack, https://www.microsoft.com/security/blog/2020/12/18/analyzing-solorigate-the-compromised-dll-file-that-started-a-sophisticated-cyberattack-and-how-microsoft-defender-helps-protect/
+
+[3] Russia's SolarWinds Hack Is a Historic Mess, https://www.wired.com/story/russia-solarwinds-hack-roundup/
+
+[4]RobbinHood ransomware takes the driver’s seat, https://blog.malwarebytes.com/threat-spotlight/2020/02/threat-spotlight-robbinhood-ransomware-takes-the-drivers-seat/
+
+[5] RobbinHood Ransomware Banks on Bad Reputation to Extort Money From Victims, https://www.trendmicro.com/vinfo/fr/security/news/cybercrime-and-digital-threats/robbinhood-ransomware-banks-on-bad-reputation-to-extort-money-from-victims
+
+[6] The Picture of a Modern-day Highwayman – RobbinHood Ransomware, https://heimdalsecurity.com/blog/robbinhood-ransomware/
+
+[7] 2018 Atlanta cyberattack, https://en.wikipedia.org/wiki/2018_Atlanta_cyberattack#cite_note-8
+
+[8] What Can We Learn from Atlanta, https://www.govtech.com/security/what-can-we-learn-from-atlanta.html
+
+[9]Conti Ransomware Resurfaces, Targeting Government & Large Organizations, https://blog.cyble.com/2021/01/21/conti-ransomware-resurfaces-targeting-government-large-organizations/
+
+[10]Ransomware Disrupts Scottish Environment Protection Agency, https://www.bankinfosecurity.com/ransomware-disrupts-scottish-environment-protection-agency-a-15768
+
+[11] FBI Warns of Increasing Ragnar Locker Ransomware Attacks, https://blackpointcyber.com/blog/ragnar-locker-ransomware-attacks
+
+[12] Energy company EDP confirms cyberattack, Ragnar Locker ransomware blamed, https://www.zdnet.com/article/edp-energy-confirms-cyberattack-ragnar-locker-ransomware-blamed/
+
+[13]EDP energy giant confirms Ragnar Locker ransomware attack, https://www.bleepingcomputer.com/news/security/edp-energy-giant-confirms-ragnar-locker-ransomware-attack/
+
+[14]Power company Enel Group suffers Snake Ransomware attack, https://www.bleepingcomputer.com/news/security/power-company-enel-group-suffers-snake-ransomware-attack/
+
+[15]Enel Group hit by ransomware again, Netwalker demands $14 million, https://www.bleepingcomputer.com/news/security/enel-group-hit-by-ransomware-again-netwalker-demands-14-million/
+
+[16] Hackers threaten to leak plastic surgery pictures , https://www.bbc.com/news/technology-55439190
+[17]REvil ransomware explained: A widespread extortion operation, https://www.csoonline.com/article/3597298/revil-ransomware-explained-a-widespread-extortion-operation.html
+
+[18] UK: Transform Hospital Group falls prey to ransomware attack , https://www.databreaches.net/uk-transform-hospital-group-falls-prey-to-ransomware-attack/
+
+[19] FBI says an Iranian hacking group is attacking F5 networking devices, https://www.zdnet.com/article/fbi-says-an-iranian-hacking-group-is-attacking-f5-networking-devices/
+
+[20]Oil-and-Gas APT Pivots to U.S. Power Plants,  https://threatpost.com/oil-and-gas-specialist-apt-pivots-to-u-s-power-plants/151699/
+
+[21] Iranian APT group hacking VPN servers for “Fox Kitten Campaign”, https://www.hackread.com/iranian-apt-group-hacking-vpn-servers-fox-kitten-campaign/
+
+[22]New Orleans servers and networks crippled by Ryuk ransomware attack, https://www.2-spyware.com/new-orleans-servers-and-networks-crippled-by-ryuk-ransomware-attack
+
+[23]Ryuk Ransomware Likely Behind New Orleans Cyberattack, https://www.bleepingcomputer.com/news/security/ryuk-ransomware-likely-behind-new-orleans-cyberattack/
+
+[24]Ryuk Eyed as Culprit in New Orleans Ransomware Outbreak, https://www.bankinfosecurity.com/new-orleans-declares-state-emergency-over-ransomware-a-13502
+
+[25]Sodinokibi Hits Msp New York Airport, https://www.msspalert.com/cybersecurity-news/sodinokibi-hits-msp-new-york-airport/
+
+[26] Albany Airport Pays Off Sodinokibi Ransomware Gang: Report, ]https://www.bankinfosecurity.com/albany-airport-pays-off-sodinokibi-ransomware-gang-report-a-13602
+
+[27] Taking Deep Dive into Sodinokibi Ransomware, https://www.acronis.com/en-in/articles/sodinokibi-ransomware/
+
+[28] BANK CYBER HEIST ANALYSIS,  https://www.rqsolutions.com/library/bank-cyber-heist-analysis.html
+
+[29] CYBER ATTACK AT COSMOS BANK,  https://www.qrcsolutionz.com/blog/cyber-attack-at-cosmos-bank
+
+[30] Securonix Threat Research Cosmos Bank Report, https://www.securonix.com/web/wp-content/uploads/2018/08/Securonix-Threat-Research-Cosmos-Bank-Report.pdf
+
+[31] Human resource consulting giant Randstad hit by Egregor ransomware,  https://securityaffairs.co/wordpress/111952/cyber-crime/randstad-egregor-ransomware.html
+
+[32]Egregor ransomware attack paralyzed for 3 days payment systems at Metro Vancouver’s transportation agency TransLink,  https://securityaffairs.co/wordpress/111898/cyber-crime/egregor-ransomware-hit-translink.html
+
+[33] Egregor Ransomware Operators Threaten Companies To Pay Ransom in 3 Days Else They Leak Data Online, https://cybersecuritynews.com/egregor-ransomware/
+
+[34]Egregor Ransomware, Used in a String of High-Profile Attacks, Shows Connections to QakBot, https://www.recordedfuture.com/egregor-ransomware-attacks/
+
+[35] Colonial Pipeline confirms it paid $4.4m ransom to hacker gang after attack, https://www.theguardian.com/technology/2021/may/19/colonial-pipeline-cyber-attack-ransom
+
+[36] Colonial Pipeline attack: Everything you need to know, https://www.zdnet.com/article/colonial-pipeline-ransomware-attack-everything-you-need-to-know/
+
+[37] What Happened in the Colonial Pipeline Ransomware Attack?, https://www.wallix.com/blog/colonial-pipeline-ransomware-attack-prevention
+
+[38]Lessons From the AMCA Data Breach,  https://www.mgocpa.com/article/lessons-from-the-amca-data-breach
+
+[39]10 OF THE LARGEST DATA BREACHES IN 2019 https://blog.rsisecurity.com/10-of-the-largest-data-breaches-in-2019/
+
+[40]AMCA data breach has now gone over the 20 million mark, https://www.zdnet.com/article/amca-data-breach-has-now-gone-over-the-20-million-mark/
+
+[41]APT surveillance attack hits the Palestinian Authority, https://www.manageengine.com/log-management/phishing-attacks/apt-surveillance-attack.html
+
+[42]APT Attack In the Middle East: The Big Bang, https://research.checkpoint.com/2018/apt-attack-middle-east-big-bang/
+
+[43]RansomEXX Trojan attacks Linux systems, https://securelist.com/ransomexx-trojan-attacks-linux-systems/99279/
+
+[44]Texas Department of Transportation (TxDOT) hit by a ransomware attack, https://www.cyberdefensemagazine.com/texas-department-of-transportation-txdot-hit-by-a-ransomware-attack/
+
+[45] Maze ransomware operators leak credit card data from Costa Rica’s BCR bank, https://securityaffairs.co/wordpress/103732/cyber-crime/maze-ransomware-bcr-leak.html
+
+[46]Rewterz threat Alert – Bank of Costa Rica Hacked by Maze Ransomware Group, https://www.rewterz.com/threats/rewterz-threat-alert-bank-of-costa-rica-hacked-by-maze-ransomware-group
+
+[47]Norway says Russian hacking group APT28 is behind August 2020 Parliament hack, https://www.zdnet.com/article/norway-says-russian-hacking-group-apt28-is-behind-august-2020-parliament-hack/
+
+[48]Harris Federation suffers a ransomware attack, shuts down email and telephone systems, https://www.teiss.co.uk/harris-federation-ransomware-attack/
+
+[49]Harris Federation hit by ransomware attack affecting 50 schools, https://www.bleepingcomputer.com/news/security/harris-federation-hit-by-ransomware-attack-affecting-50-schools/
+
+[50]Evidence suggests REvil behind Harris Federation ransomware attack, https://www.itpro.co.uk/security/ransomware/359161/evidence-suggests-revil-behind-harris-federation-ransomware-attack
+
+[51]CNA Discloses Breach Related to March Ransomware Attack, https://www.bankinfosecurity.com/cna-discloses-breach-related-to-march-ransomware-attack-a-17022
+
+[52] CNA Financial Paid $40 Million in Ransom After March Cyberattack, https://www.bloomberg.com/news/articles/2021-05-20/cna-financial-paid-40-million-in-ransom-after-march-cyberattack 
+
+[53]Chinese APT suspected of supply chain attack on Mongolian government agencies, https://www.zdnet.com/article/chinese-apt-suspected-of-supply-chain-attack-on-mongolian-government-agencies/
+
+[54]APT Group Targeting Governmental Agencies in East Asia, https://decoded.avast.io/luigicamastra/apt-group-targeting-governmental-agencies-in-east-asia/
+
+[55]Big Game Ransomware being delivered to organisations via Pulse Secure VPN, 
+https://doublepulsar.com/big-game-ransomware-being-delivered-to-organisations-via-pulse-secure-vpn-bd01b791aad9
+
+[56]Remote Access VPNs Have Ransomware on Their Hands, https://www.zscaler.com/blogs/product-insights/remote-access-vpns-have-ransomware-their-hands
+
+[57] Bamboo Spider, TA544, https://apt.thaicert.or.th/cgi-bin/showcard.cgi?g=Bamboo%20Spider%2C%20TA544&n=1
+
+[58]Panda Banker Zeros in on Japanese Targets, https://www.netscout.com/blog/asert/panda-banker-zeros-japanese-targets
+
+[59]Zeus Panda Advanced Banking Trojan Gets Creative to Scam Affluent Victims in Italy, https://cofense.com/zeus-panda-advanced-banking-trojan-gets-creative-scam-affluent-victims-italy/
+
+[60]Trojan Panda Banker / Zeus Panda, https://www.cyberswachhtakendra.gov.in/alerts/trojan_panda.html
+
+[61]2021 Microsoft Exchange Server data breach, https://en.wikipedia.org/wiki/2021_Microsoft_Exchange_Server_data_breach
+
+[62]Everything you need to know about the Microsoft Exchange Server hack, https://www.zdnet.com/article/everything-you-need-to-know-about-microsoft-exchange-server-hack/
+
+[63]Bombardier is latest victim of Accellion supply chain attack, https://www.computerweekly.com/news/252496828/Bombardier-is-latest-victim-of-Accellion-supply-chain-attack
+
+[64]Taking Action Against Hackers in Bangladesh and Vietnam, https://about.fb.com/news/2020/12/taking-action-against-hackers-in-bangladesh-and-vietnam/
+
+[65]Advanced Persistent Threat Groups, https://www.fireeye.com/current-threats/apt-groups.html
+
+[66]Fox Kitten – Widespread Iranian Espionage-Offensive Campaign, https://www.clearskysec.com/fox-kitten/
+
+[67]Incident Of The Week: Historic Capital One Hack Reaches 100 Million Customers Affected By Breach, https://www.cshub.com/attacks/articles/incident-of-the-week-historic-capital-one-hack-reaches-100-million-customers-affected-by-breach
+
+[68]Capital One looked to the cloud for security. But its own firewall couldn’t stop a hacker, https://www.washingtonpost.com/technology/2019/07/30/capital-one-looked-cloud-security-its-own-firewall-couldnt-stop-hacker/
+
+[69]Ransomware hits helicopter maker Kopter, https://www.zdnet.com/article/ransomware-hits-helicopter-maker-kopter/
+
+[70] APT-39 targeted attacks on Middle EAST, https://thehackernews.com/2020/05/iran-hackers-kuwait.html 
+
+[71]  Trickbot Malware, https://blog.malwarebytes.com/detections/trojan-trickbot/ 
+
+[72] Ransomware Attack on Miami and Colorado Universities, https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-stolen-from-colorado-miami-universities/ 
+
+[73]  Dopple Paymer Attack on Chilean Ministry,
+ https://www.crowdstrike.com/blog/doppelpaymer-ransomware-and-dridex-2/ 
+
+[74] Attack on Rail Europe,  https://cutt.ly/9QtQ0NU  
+
+[75] Attack on Israel scholars by charming kitten, 
+https://threatpost.com/charming-kitten-whatsapp-linkedin-effort/158813/ 
+
+[76] Attack on Electronics Giant FOXCON, https://www.bleepingcomputer.com/news/security/foxconn-electronics-giant-hit-by-ransomware-34-million-ransom/
+ 
+[77]Attack on Russian Railways ; Employees data publicly disclosed,
+https://www.ehackingnews.com/2019/08/data-of-almost-all-employees-of-russian.html?m=1 
+[78]Dtrack Malware found in Kudankulam Nuclear Plant,
+https://www.cyberbit.com/blog/endpoint-security/dtrack-apt-malware-found-in-nuclear-power-plant/ 
+
+[79] Tech Giant Whirlpool  Attacked by Ransomware Gang, 
+https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/updated-analysis-on-nefilim-ransomware-s-behavior 
+https://www.forbes.com/sites/leemathews/2021/12/28/international-appliance-giant-whirlpool-has-been-hit-by-ransomware/?sh=bb0b52b4d6e8 
+
+[80] W&T offshore Ransomware attack, https://blog.cyble.com/2020/04/28/nefilim-ransomware-operators-strike-wt-offshore-a-leading-independent-oil-and-natural-gas-producer/ 
+
+[81] MGM resort Breach, https://us.norton.com/internetsecurity-emerging-threats-mgm-data-breach.html#:~:text=The%20personal%20information%20of%20more,in%20the%20summer%20of%202019
+
+[82] Healthcare.gov Hack Exposes Consumer Data, https://www.pymnts.com/news/security-and-risk/2018/cms-healthcare-gov-hack-personal-data-breach/ 
+
+[83] British Airways Users data got Hacked, https://www.forbes.com/sites/bishopjordan/2018/09/11/how-british-airways-got-hacked/?sh=3e66167b689d
+
+[84] Bio star database leakage, https://www.vpnmentor.com/blog/report-biostar2-leak/ 
+
+[85] Rampant Misconfigurations Expose 1.5 Billion Sensitive Corporate Files, https://www.infosecurity-magazine.com/news/rampant-misconfigurations-expose/ 
+
+[86] Pan-Asian retail giant Dairy Farm suffers REvil ransomware attack, https://www.bleepingcomputer.com/news/security/pan-asian-retail-giant-dairy-farm-suffers-revil-ransomware-attack/
+
+[87] Hacker accessed National nuclear administration, https://www.securitymagazine.com/articles/94195-hackers-accessed-systems-at-the-national-nuclear-security-administration
+
+[88] Attacks of LockerGoga encryption malware, https://ics-cert.kaspersky.com/reports/2019/09/30/threat-landscape-for-industrial-automation-systems-h1-2019/#_Toc19618306
+
+[89]Cobalt spider attacks on Russian banking Networks, https://www.crowdstrike.com/blog/meet-crowdstrikes-adversary-of-the-month-for-september-cobalt-spider/
+
+[90] Chinese APT groups targeting Indian Power grids, https://searchsecurity.techtarget.com/news/252497115/Chinese-threat-group-RedEcho-targeting-Indian-power-grid 

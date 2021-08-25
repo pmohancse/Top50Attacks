@@ -1,0 +1,103 @@
+[1] Microsoft Says SolarWinds Hackers Accessed Some of Its Source Code, https://thehackernews.com/2020/12/microsoft-says-solarwinds-hackers.html
+[2] Russians Are Believed to Have Used Microsoft Resellers in Cyberattacks, https://www.nytimes.com/2020/12/24/us/russia-microsoft-resellers-cyberattacks.html
+[3] T-Mobile data breach exposed phone numbers, call records, https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/t-mobile-data-breach-exposed-phone-numbers-call-records/amp/
+[4] Facebook ads used to steal 615000+ credentials in a phishing campaign, https://securityaffairs.co/wordpress/112882/hacking/facebook-phishing-campaign-2.html
+[5] Expert found a secret backdoor in Zyxel firewall and VPN, https://securityaffairs.co/wordpress/112877/iot/secret-backdoor-zyxel-devices.html
+[6] Hackers Demand Ransom After Major Cyber-Attack on the Antwerp Laboratory, https://www.ehackingnews.com/2021/01/hackers-demand-ransom-after-major-cyber.html?m=1
+[7] Recent server breach could have compromised internal data : Indigo, https://www.livemint.com/companies/news/recent-server-breach-could-compromise-passenger-data-indigo-11609434186420.html
+[8] Remote Access VPNs Have Ransomware on Their Hands, https://www.zscaler.com/blogs/product-insights/remote-access-vpns-have-ransomware-their-hands
+[9] AutoHotkey-Based credential stealer targets bank in the US and Canada, https://securityaffairs.co/wordpress/112895/malware/credential-stealer-banks.html
+[10] Wood Ranch Medical Announces Permanent Closure Due to Ransomware Attack, https://www.hipaajournal.com/wood-ranch-medical-announces-permanent-closure-due-to-ransomware-attack/
+[11] German hospital hacked, patient taken to another city dies, https://abcnews.go.com/International/wireStory/german-hospital-hacked-patient-city-dies-73069416
+[12] Data Of 10 Cr Digital Payments Transactions Leaked After Attack On Juspay’s Server, https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/indias-biggest-data-leak-info-of-10-cr-cardholders-leaked-from-juspay/amp/
+[13] 2021 Cybersecurity Trends: Bigger Budgets, Endpoint Emphasis and Cloud, https://threatpost.com/2021-cybersecurity-trends/162629/
+[14] API Data Breaches in 2020, https://www.cloudvector.com/api-data-breaches-in-2020/
+[15] Vietnam targeted in complex supply chain attack, https://www.zdnet.com/article/vietnam-targeted-in-complex-supply-chain-attack/
+[16] Google Discloses Poorly-Patched, Now Unpatched, Windows 0-Day Bug, https://thehackernews.com/2020/12/google-discloses-poorly-patched-now.html
+[17] cyberark study why remote workers bypass corporate security policies, https://www.msspalert.com/cybersecurity-research/cyberark-study-why-remote-workers-bypass-corporate-security-policies/
+[18] Summary of Iranian Advanced Persistent Threat (APT) 34, https://medium.com/hybrid-analyst/summary-of-iranian-advanced-persistent-team-apt-34-7624d213d20e
+[19] List of data breaches and cyber attacks in December 2020 – 148 million records breached, https://www.itgovernance.co.uk/blog/list-of-data-breaches-and-cyber-attacks-in-december-2020
+[20] Technical Deep Dive Into SolarWinds Breach, https://blog.qualys.com/vulnerabilities-threat-research/2021/01/04/technical-deep-dive-into-solarwinds-breach
+[21] Diving into the Sun — SunCrypt: A new neighbour in the ransomware mafia, https://sapphirex00.medium.com/diving-into-the-sun-suncrypt-a-new-neighbour-in-the-ransomware-mafia-d89010c9df83
+[22] Researchers Warn of New Babuk Ransomware Targeting Enterprise Networks, https://www.securityweek.com/researchers-warn-new-ransomware-targeting-enterprise-networks
+[23] Detecting Post-Compromise Threat Activity in Microsoft Cloud Environments, https://us-cert.cisa.gov/ncas/alerts/aa21-008a
+[24] Our cybersecurity predictions for 2021, https://blog.pradeo.com/cybersecurity-predictions-2021
+[25] Operation Spalax: Targeted malware attacks in Colombia, https://www.welivesecurity.com/2021/01/12/operation-spalax-targeted-malware-attacks-colombia/
+[26] Cybercrime peaked astronomically in 2020: Learnings and predictions for 2021, https://betanews.com/2021/01/13/cybercrime-learnings-and-predictions-2021/
+[27] Threat Actor Targets New Zealand Reserve Bank to Acquire Sensitive Information, https://www.ehackingnews.com/2021/01/threat-actor-targets-new-zealand.html?m=1
+[28] Hackers have leaked the COVID-19 vaccine data they stole in a cyberattack, https://www.zdnet.com/article/hackers-have-leaked-the-covid-19-vaccine-data-they-stole-in-a-cyberattack/?ftag=COS-05-10aaa0g&taid=5fffa92d4156da00013ece74&utm_campaign=trueAnthem%3A+Trending+Content&utm_medium=trueAnthem&utm_source=twitter
+[29] WANDERA DATA ANALYSIS Cloud Security Report 2021, https://www.wandera.com/cloud-security-report-2021eapvoeasdasdasdcaz/wandera-cloud-security-report-2021/
+[30] AI set to replace humans in cybersecurity by 2030, says Trend Micro survey, https://www.zdnet.com/article/ai-set-to-replace-humans-in-cybersecurity-by-2030-says-trend-micro/
+[31] Intel, Cybereason Beat Ransomware With Hardware Shield, https://www.sdxcentral.com/articles/news/intel-cybereason-beat-ransomware-with-hardware-shield/2021/01/
+[32] Microsoft unleashes ‘Death Star’ on SolarWinds hackers in extraordinary response to breach, https://www.geekwire.com/2020/microsoft-unleashes-death-star-solarwinds-hackers-extraordinary-response-breach/
+[33] Russia, Iran and China exploit Capitol Hill riot to push information operations, US intel concludes, https://www.cyberscoop.com/capitol-riot-russia-china-iran-biden-inauguration/
+[34] Raindrop: New Malware Discovered in SolarWinds Investigation, https://symantec-enterprise-blogs.security.com/blogs/threat-intelligence/solarwinds-raindrop-malware
+[35] Security firm Malwarebytes was infected by same hackers who hit SolarWinds, https://arstechnica.com/information-technology/2021/01/security-firm-malwarebytes-was-infected-by-same-hackers-who-hit-solarwinds/?amp=1
+[36] FreakOut Malware that Exploits Critical Vulnerabilities in Linux Devices, https://gbhackers.com/freakout-malware-linux/amp/
+[37] Logic bugs found in popular apps, including Signal and FB Messenger, https://securityaffairs.co/wordpress/113657/hacking/signal-fb-messenger-logical-flaws.html
+[38] Sensitive data of over 325,000 Indian users leaked in BuyUCoin hack, https://www.business-standard.com/article/current-affairs/sensitive-data-of-over-325-000-indian-users-leaked-in-buyucoin-hack-121012101115_1.html
+[39] BEC Target Selection Using Google Forms, https://www.proofpoint.com/us/blog/threat-insight/bec-target-selection-using-google-forms
+[40] The Reemergence Of Ransom-Based Distributed Denial Of Service (RDDoS) Attacks, https://blog.lumen.com/the-reemergence-of-ransom-based-distributed-denial-of-service-rddos-attacks/
+[41] SonicWall Breached Via Zero-Day Flaw In Remote Access Tools, https://www.crn.com/news/security/sonicwall-breached-via-zero-day-flaw-in-remote-access-tools
+[42] Beware — A New Wormable Android Malware Spreading Through WhatsApp, https://amp.thehackernews.com/thn/2021/01/beware-new-wormable-android-malware.html
+[43] Google: North Korean hackers have targeted security researchers via social media, https://www.zdnet.com/google-amp/article/google-north-korean-hackers-have-targeted-security-researchers-via-social-media/
+[44] The anatomy of a modern-day ransomware conglomerate, https://www.cyberscoop.com/ransomware-attack-schools-hospitals-egregor-sophos/
+[45] Cyber experts say advice from breached IoT device company Ubiquiti falls short, https://www.scmagazine.com/news/breach/ubiquiti-urges-password-reset-2fa-after-breach
+[46] Sudo vulnerability allows attackers to gain root privileges on Linux systems (CVE-2021-3156), https://www.helpnetsecurity.com/2021/01/27/cve-2021-3156/
+[47] ZINC attacks against security researchers, https://www.microsoft.com/security/blog/2021/01/28/zinc-attacks-against-security-researchers/
+[48] Operation NightScout: Supply‑chain attack targets online gaming in Asia, https://www.welivesecurity.com/2021/02/01/operation-nightscout-supply-chain-attack-online-gaming-asia/
+[49] 1.4M unemployment records stolen in Washington state data breach, https://siliconangle.com/2021/02/01/1-4m-unemployment-records-stolen-washington-state-data-breach/
+[50] Matryosh DDoS botnet targets Android-Based devices via ADB, https://securityaffairs.co/wordpress/114216/malware/matryosh-ddos-botnet-android.html
+[51] Cybersecurity firm Stormshield hacked. Data (including source code) stolen, https://grahamcluley.com/cybersecurity-firm-stormshield-hacked-data-including-source-code-stolen
+[52] Attack on Telenor was part of large cyberespionage operation with Indian origins, report says, https://www.csoonline.com/article/2133495/attack-on-telenor-was-part-of-large-cyberespionage-operation-with-indian-origins-.html
+[53] Hackers Attempted to Poison the Water Supply After Gaining Access to the Water Treatment System, https://gbhackers.com/hackers-poison-water-supply/amp/
+[54] Domestic Kitten has been conducting surveillance targeting over 1,000 individuals, https://securityaffairs.co/wordpress/114353/apt/domestic-kitten-operations.html
+[55] The popular Barcode Scanner app with over 10 million installs has been removed by Google from Play Store after it was reported for malicious activities once users updated it to the latest version., https://www.hackread.com/barcode-scanner-app-infected-users-malware/?amp
+[56] Dark Basin Uncovering a Massive Hack-For-Hire Operation, https://citizenlab.ca/2020/06/dark-basin-uncovering-a-massive-hack-for-hire-operation/
+[57] Experts spotted two Android spyware used by Indian APT Confucius, https://securityaffairs.co/wordpress/114473/malware/confucius-apt-malware.html
+[58] Bhima Koregaon Malware Plant: Can We Fight Such Cyber Attacks?, https://www.thequint.com/news/india/bhima-koregaon-malware-plant-beware-of-such-remote-cyber-attacks
+[59] 12-Year-Old vulnerability in Windows Defender risked 1 billion devices, https://www.hackread.com/12-year-old-vulnerability-in-windows-defender/?am
+[60] Microsoft: SolarWinds attack took more than 1,000 engineers to create, https://www.zdnet.com/google-amp/article/microsoft-solarwinds-attack-took-more-than-1000-engineers-to-create/
+[61] Kia Motors Reportedly Told to Pay Up in Latest Ransomware Attack, https://www.industryweek.com/technology-and-iiot/article/21155484/kia-motors-told-to-pay-up-in-latest-ransomware-attack
+[62] New Hack Lets Attackers Bypass MasterCard PIN by Using Them As Visa Card, https://thehackernews.com/2021/02/new-hack-lets-attackers-bypass.html?m=1
+[63] Silver Sparrow, a new malware infects Mac systems using Apple M1 chip, https://securityaffairs.co/wordpress/114805/malware/silver-sparrow-malware-apple-m1-chip.html
+[64] Indian Government Breached, Massive Amount of Critical Vulnerabilities, https://johnjhacking.com/blog/indian-government-breached-massive-amount-of-critical-vulnerabilities/
+[65] SolarWinds Blames Intern for 'solarwinds123' Password Lapse, https://thehackernews.com/2021/03/solarwinds-blame-intern-for-weak.html
+[66] Hackers Tied to Russia's GRU Targeted the US Grid for Years, Researchers Warn, https://www.wired.com/story/russia-gru-hackers-us-grid/
+[67] 40 Telangana sub-stations attacked by Chinese malware, https://www.businesstoday.in/latest/economy-politics/story/40-telangana-sub-stations-attacked-by-chinese-malware-289899-2021-03-03
+[68] The Most Serious Security Risk Facing the United States, https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/09/books/review/this-is-how-they-tell-me-the-world-ends-nicole-perlroth.amp.html
+[69] Microsoft, FireEye report 3 new malware linked to SolarWinds hackers, https://www.hackread.com/microsoft-fireeye-solarwinds-hackers-malware
+[70] Massive Supply-Chain Cyberattack Breaches Several Airlines, https://threatpost.com/supply-chain-cyberattack-airlines/164549/
+[71] Poison packages – “Supply Chain Risks” user hits Python community with 4000 fake modules, https://nakedsecurity.sophos.com/2021/03/07/poison-packages-supply-chain-risks-user-hits-python-community-with-4000-fake-modules/amp/
+[72] Attacks on Exchange servers expand from nation-states to cryptominers, https://therecord.media/attacks-on-exchange-servers-expand-from-nation-states-to-cryptominers/
+[73] 62.6 billion cybersecurity threats detected in 2020, https://www.technologydecisions.com.au/content/security/news/62-6-billion-cybersecurity-threats-detected-in-2020-416610312
+[74] Cyber Attacks More Likely to Bring Down F-35 Jets Than Missiles, https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/cyber-attacks-more-likely-to-bring-down-f-35-jets-than-missiles
+[75] HAFNIUM and SolarWinds Attacks Highlight Lack of Accountability, https://www.cybereason.com/blog/hafnium-and-solarwinds-attacks-highlight-lack-of-accountability
+[76] Microsoft Exchange Exploits Pave a Ransomware Path, https://threatpost.com/microsoft-exchange-exploits-ransomware/164719/
+[77] How Did the Exchange Server Exploit Leak?, https://www.bankinfosecurity.com/blogs/how-did-exchange-server-exploit-leak-p-3005
+[78] Ransomware attack on Pimpri Chinchwad Smart City servers managed by Tech Mahindra, https://economictimes.indiatimes.com/tech/information-tech/ransomware-attack-on-pimpri-chinchwad-smart-city-servers-managed-by-tech-mahindraarticleshow/81514435.cms?utm_source=contentofinterest&utm_medium=text&utm_campaign=cppst
+[79] FBI warns of increase in PYSA ransomware attacks targeting education, https://blog.malwarebytes.com/awareness/2021/03/fbi-warns-of-increase-in-pysa-ransomware-attacks-targeting-education/amp/
+[80] Privacy Essentials Vulnerabilities in the DuckDuckGo Browser Extension, https://www.ehackingnews.com/2021/03/privacy-essentials-vulnerabilities-in.html?m=1
+[81] REvil ransomware gang demands $50M ransom payment from Acer, https://siliconangle.com/2021/03/21/revil-ransomware-gang-demands-50m-ransom-payment-acer/
+[82] Sierra Wireless halted production at its manufacturing sites due to ransomware attack, https://securityaffairs.co/wordpress/115897/malware/sierra-wireless-ransomware.html
+[83] Chinese Hackers Used Facebook to Hack Uighur Muslims Living Abroad, https://thehackernews.com/2021/03/chinese-hackers-used-facebook-to-hack.html?m=1
+[84] Data for 7.3 million Dutch car owners sold on hacking forum, https://therecord.media/data-for-7-3-million-dutch-car-owners-sold-on-hacking-forum/
+[85] Ransomware gang leaks data from US military contractor the PDI Group, https://therecord-media.cdn.ampproject.org/c/s/therecord.media/ransomware-gang-leaks-data-from-us-military-contractor-the-pdi-group/amp/
+[86] APT Charming Kitten Pounces on Medical Researchers, https://threatpost.com/charming-kitten-pounces-on-researchers/165129/
+[87] Data of 553 million Facebook users from 106 countries, including India, leaked, https://www.businesstoday.in/latest/economy-politics/story/data-of-553-million-facebook-users-from-106-countries-including-india-leaked-for-free-292601-2021-04-04
+[88] Conti Gang Demands $40M Ransom from Florida School District, https://threatpost.com/conti-40m-ransom-florida-school/165258/
+[89] Another supply-chain attack? Android maker Gigaset injects malware into victims' phones via poisoned update, https://www.theregister.com/AMP/2021/04/07/gigaset_supply_chain_malware_android_phones
+[90] New Cring ransomware deployed via unpatched Fortinet VPNs, https://therecord-media.cdn.ampproject.org/c/s/therecord.media/new-cring-ransomware-deployed-via-unpatched-fortinet-vpns/amp/
+[91] Critical Zero-day Vulnerability in Desktop Window Manager (DWM) Let Attackers to Escalate Privilege, https://gbhackers.com/desktop-window-manager-dwm/amp/
+[92] Domino's India hacked? Credit card data of 10 lakh users on 'sale' for Rs 4 crore, https://www.tribuneindia.com/news/nation/dominos-india-hacked-credit-card-data-of-10-lakh-users-on-sale-for-rs-4-crore-241206
+[93] 61% of organizations impacted by ransomware in 2020, https://www.helpnetsecurity.com/2021/04/26/ransomware-2020/
+[94] Ransomware gang targets Microsoft SharePoint servers for the first time, https://therecord.media/ransomware-gang-targets-microsoft-sharepoint-servers/
+[95] Researchers Uncover 'Process Ghosting' — A New Malware Evasion Technique, https://thehackernews.com/2021/06/researchers-uncover-process-ghosting.html
+[96] Cyber espionage by Chinese hackers in neighbouring nations is on the rise,https://thehackernews.com/2021/06/cyber-espionage-by-chinese-hackers-in.html?m=1
+[97] Pakistan-linked hackers targeted Indian power company with ReverseRat, https://thehackernews.com/2021/06/pakistan-linked-hackers-targeted-indian.html?m=1
+[98] Suspected Pakistani Actor Compromises Indian Power Company With New ReverseRat, https://blog.lumen.com/suspected-pakistani-actor-compromises-indian-power-company-with-new-reverserat/
+[99] Hackers hit Microsoft customer service system, make off with data, https://www.cnet.com/tech/services-and-software/hackers-hit-microsoft-customer-service-system-make-off-with-data/
+[100] Forensic Methodology Report: How to catch NSO Group’s Pegasus,https://www.amnesty.org/en/latest/research/2021/07/forensic-methodology-report-how-to-catch-nso-groups-pegasus/
+[101] Android Malware ‘FlyTrap’ Hijacks Facebook Accounts, https://threatpost.com/android-malware-flytrap-facebook/168463/
+[102] Experts Believe Chinese Hackers Are Behind Several Attacks Targeting Israel, https://thehackernews.com/2021/08/experts-believe-chinese-hackers-are.html
+
